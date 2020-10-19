@@ -1,0 +1,2 @@
+# gajeel-bot
+Gajeel é um bot desativado criado por  愛#0001 feito com o intuito de ajudar servidores de Discord. Aproveitem o repositório! || Gajeelは、Discordサーバーを支援するために作成された愛＃0001によって作成された無効なボットです。リポジトリをお楽しみください！ ||  Gajeel is a disabled bot created by 愛 # 0001 made in order to help Discord servers. Enjoy the repository! || Gajeel es un bot desactivado creado por 愛 # 0001 creado para ayudar a los servidores de Discord. ¡Disfruta del repositorio! || Гажил - это отключенный бот, созданный 愛 # 0001 для помощи серверам Discord. Наслаждайтесь репозиторием!
